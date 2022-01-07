@@ -1,3 +1,3 @@
 # cd ddostest
 # git clone https://github.com/AnonymousX0-0/ddostest.git
-# python3
+# python3 ddos_active.py
